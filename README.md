@@ -1,4 +1,4 @@
 # apnaCollege
 This is My First Repository
-</b>
+<br>
 Author : vikas paithane
